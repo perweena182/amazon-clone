@@ -1,0 +1,12 @@
+.checkoutproduct{
+	display: flex;
+}
+.checkoutproduct_image{
+	object-fit: contain;
+	width: 180px;
+	height: 180px;
+	margin-bottom: 15px;
+}
+.checkoutproduct_info >button{
+	background-color: #f0c14b;
+}
